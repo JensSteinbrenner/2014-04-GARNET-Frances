@@ -1,6 +1,5 @@
- Authour:
-
 Title:The best paper ever 
+Title: P. indica
 
 Abstract:I love chocolate and ice cream.
 
